@@ -1,0 +1,9 @@
+body{
+    width: 800px;
+    background: rgb(228, 95, 95)('../images/body_bg.gif')repeat-x top;
+    font-size: 1em;
+    color: rgb(26, 230, 128);
+    margin: 0px auto;
+    margin-top: 50px;
+    padding: 50px;
+}
